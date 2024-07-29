@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "n5I7J9/jTfwlbj55QnOyShhjyM1kwCPzO15lYm2vMzE=",
+  "Source": "MyShop",
+  "BasePath": "_content/MyShop",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-2/MyShop/obj/Debug/net8.0/scopedcss/bundle/MyShop.styles.css",
+      "SourceId": "MyShop",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-2/MyShop/obj/Debug/net8.0/scopedcss/bundle/",
+      "BasePath": "_content/MyShop",
+      "RelativePath": "MyShop.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-2/MyShop/obj/Debug/net8.0/scopedcss/bundle/MyShop.styles.css"
+    },
+    {
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-2/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/MyShop.bundle.scp.css",
+      "SourceId": "MyShop",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-2/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "BasePath": "_content/MyShop",
+      "RelativePath": "MyShop.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-2/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/MyShop.bundle.scp.css"
+    }
+  ]
+}
