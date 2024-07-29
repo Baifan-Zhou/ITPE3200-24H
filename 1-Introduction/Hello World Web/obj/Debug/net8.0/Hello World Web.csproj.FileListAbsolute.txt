@@ -1,0 +1,25 @@
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/bin/Debug/net8.0/appsettings.Development.json
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/bin/Debug/net8.0/appsettings.json
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/bin/Debug/net8.0/Hello World Web
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/bin/Debug/net8.0/Hello World Web.deps.json
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/bin/Debug/net8.0/Hello World Web.runtimeconfig.json
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/bin/Debug/net8.0/Hello World Web.dll
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/bin/Debug/net8.0/Hello World Web.pdb
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/Hello World Web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/Hello World Web.AssemblyInfoInputs.cache
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/Hello World Web.AssemblyInfo.cs
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/Hello World Web.csproj.CoreCompileInputs.cache
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/Hello World Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/staticwebassets.build.json
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/staticwebassets.development.json
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/staticwebassets/msbuild.Hello World Web.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/staticwebassets/msbuild.build.Hello World Web.props
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Hello World Web.props
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Hello World Web.props
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/scopedcss/bundle/Hello World Web.styles.css
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/Hello World Web.dll
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/refint/Hello World Web.dll
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/Hello World Web.pdb
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/Hello World Web.genruntimeconfig.cache
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World Web/obj/Debug/net8.0/ref/Hello World Web.dll
