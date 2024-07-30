@@ -1,0 +1,11 @@
+@model ItemsViewModel
+
+<h1>List of Shop Items (@Model.CurrentViewName View)</h1>
+<a href="/Item/Table">Table View</a>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var item in Model.Items)
+    {
+        <partial name="_ItemCard" model="item" />
+    }
+</div>
