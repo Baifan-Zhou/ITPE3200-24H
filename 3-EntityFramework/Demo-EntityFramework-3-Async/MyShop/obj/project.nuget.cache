@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "C6L5jZW+HUo=",
+  "dgSpecHash": "+URGcIpqbng=",
   "success": true,
   "projectFilePath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-3-Async/MyShop/MyShop.csproj",
   "expectedPackageFiles": [
+    "/Users/baifanz/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/baifanz/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/baifanz/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/Users/baifanz/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.3/microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
@@ -16,6 +17,7 @@
     "/Users/baifanz/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.7/microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",
     "/Users/baifanz/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.7/microsoft.entityframeworkcore.analyzers.8.0.7.nupkg.sha512",
     "/Users/baifanz/.nuget/packages/microsoft.entityframeworkcore.design/8.0.7/microsoft.entityframeworkcore.design.8.0.7.nupkg.sha512",
+    "/Users/baifanz/.nuget/packages/microsoft.entityframeworkcore.proxies/8.0.7/microsoft.entityframeworkcore.proxies.8.0.7.nupkg.sha512",
     "/Users/baifanz/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.7/microsoft.entityframeworkcore.relational.8.0.7.nupkg.sha512",
     "/Users/baifanz/.nuget/packages/microsoft.entityframeworkcore.sqlite/8.0.7/microsoft.entityframeworkcore.sqlite.8.0.7.nupkg.sha512",
     "/Users/baifanz/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/8.0.7/microsoft.entityframeworkcore.sqlite.core.8.0.7.nupkg.sha512",
@@ -42,6 +44,7 @@
     "/Users/baifanz/.nuget/packages/system.composition.hosting/6.0.0/system.composition.hosting.6.0.0.nupkg.sha512",
     "/Users/baifanz/.nuget/packages/system.composition.runtime/6.0.0/system.composition.runtime.6.0.0.nupkg.sha512",
     "/Users/baifanz/.nuget/packages/system.composition.typedparts/6.0.0/system.composition.typedparts.6.0.0.nupkg.sha512",
+    "/Users/baifanz/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "/Users/baifanz/.nuget/packages/system.io.pipelines/6.0.3/system.io.pipelines.6.0.3.nupkg.sha512",
     "/Users/baifanz/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/Users/baifanz/.nuget/packages/system.reflection.metadata/6.0.1/system.reflection.metadata.6.0.1.nupkg.sha512",

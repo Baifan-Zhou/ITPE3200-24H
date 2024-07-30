@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-4-DbSeeding/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/MyShop.bundle.scp.css",
+      "PackagePath": "staticwebassets/MyShop.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-4-DbSeeding/MyShop/wwwroot/images/chickenleg.jpg",
+      "PackagePath": "staticwebassets/images/chickenleg.jpg"
+    },
+    {
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-4-DbSeeding/MyShop/wwwroot/images/cider.jpg",
+      "PackagePath": "staticwebassets/images/cider.jpg"
+    },
+    {
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-4-DbSeeding/MyShop/wwwroot/images/coke.jpg",
+      "PackagePath": "staticwebassets/images/coke.jpg"
+    },
+    {
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-4-DbSeeding/MyShop/wwwroot/images/fishandchips.jpg",
+      "PackagePath": "staticwebassets/images/fishandchips.jpg"
+    },
+    {
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-4-DbSeeding/MyShop/wwwroot/images/frenchfries.jpg",
+      "PackagePath": "staticwebassets/images/frenchfries.jpg"
+    },
+    {
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-4-DbSeeding/MyShop/wwwroot/images/pizza.jpg",
+      "PackagePath": "staticwebassets/images/pizza.jpg"
+    },
+    {
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-4-DbSeeding/MyShop/wwwroot/images/ribs.jpg",
+      "PackagePath": "staticwebassets/images/ribs.jpg"
+    },
+    {
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-4-DbSeeding/MyShop/wwwroot/images/tacos.jpg",
+      "PackagePath": "staticwebassets/images/tacos.jpg"
+    },
+    {
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-4-DbSeeding/MyShop/wwwroot/package-lock.json",
+      "PackagePath": "staticwebassets/package-lock.json"
+    },
+    {
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-4-DbSeeding/MyShop/wwwroot/package.json",
+      "PackagePath": "staticwebassets/package.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MyShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MyShop.props",
+      "PackagePath": "build\\MyShop.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyShop.props",
+      "PackagePath": "buildMultiTargeting\\MyShop.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyShop.props",
+      "PackagePath": "buildTransitive\\MyShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

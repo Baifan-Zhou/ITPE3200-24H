@@ -1,0 +1,19 @@
+@model Item
+
+<div class="col">
+    <div>
+        <img src="@Model.ImageUrl" class="card-img-top" alt="@Model.Name">
+        <div>
+            <div class="d-flex justify-content-between mt-2">
+                <h5 class="text-start">
+                    <a asp-controller="Item"
+                        asp-action="Details"
+                        asp-route-id="@Model.ItemId">@Model.Name</a>
+                </h5>
+                <h5 class="text-nowrap">
+                    @Model.Price.ToString("0.00 NOK")
+                </h5>
+            </div>
+        </div>
+    </div>
+</div>

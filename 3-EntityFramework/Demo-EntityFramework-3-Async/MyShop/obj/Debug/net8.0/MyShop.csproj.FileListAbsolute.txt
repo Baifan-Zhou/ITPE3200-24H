@@ -552,3 +552,5 @@
 /Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-3-Async/MyShop/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-3-Async/MyShop/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-3-Async/MyShop/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-3-Async/MyShop/bin/Debug/net8.0/Castle.Core.dll
+/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-3-Async/MyShop/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Proxies.dll
