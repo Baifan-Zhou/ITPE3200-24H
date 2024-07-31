@@ -1,47 +1,55 @@
 {
   "Files": [
     {
-      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-4-4/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/MyShop.bundle.scp.css",
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-4-4/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/MyShop.bundle.scp.css",
       "PackagePath": "staticwebassets/MyShop.bundle.scp.css"
     },
     {
-      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-4-4/MyShop/wwwroot/images/chickenleg.jpg",
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-4-4/MyShop/wwwroot/images/chickenleg.jpg",
       "PackagePath": "staticwebassets/images/chickenleg.jpg"
     },
     {
-      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-4-4/MyShop/wwwroot/images/cider.jpg",
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-4-4/MyShop/wwwroot/images/cider.jpg",
       "PackagePath": "staticwebassets/images/cider.jpg"
     },
     {
-      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-4-4/MyShop/wwwroot/images/coke.jpg",
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-4-4/MyShop/wwwroot/images/coke.jpg",
       "PackagePath": "staticwebassets/images/coke.jpg"
     },
     {
-      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-4-4/MyShop/wwwroot/images/fishandchips.jpg",
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-4-4/MyShop/wwwroot/images/fishandchips.jpg",
       "PackagePath": "staticwebassets/images/fishandchips.jpg"
     },
     {
-      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-4-4/MyShop/wwwroot/images/frenchfries.jpg",
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-4-4/MyShop/wwwroot/images/frenchfries.jpg",
       "PackagePath": "staticwebassets/images/frenchfries.jpg"
     },
     {
-      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-4-4/MyShop/wwwroot/images/pizza.jpg",
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-4-4/MyShop/wwwroot/images/pizza.jpg",
       "PackagePath": "staticwebassets/images/pizza.jpg"
     },
     {
-      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-4-4/MyShop/wwwroot/images/ribs.jpg",
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-4-4/MyShop/wwwroot/images/ribs.jpg",
       "PackagePath": "staticwebassets/images/ribs.jpg"
     },
     {
-      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-4-4/MyShop/wwwroot/images/tacos.jpg",
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-4-4/MyShop/wwwroot/images/tacos.jpg",
       "PackagePath": "staticwebassets/images/tacos.jpg"
     },
     {
-      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-4-4/MyShop/wwwroot/package-lock.json",
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-4-4/MyShop/wwwroot/js/bootstrap.js",
+      "PackagePath": "staticwebassets/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-4-4/MyShop/wwwroot/js/jquery.min.js",
+      "PackagePath": "staticwebassets/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-4-4/MyShop/wwwroot/package-lock.json",
       "PackagePath": "staticwebassets/package-lock.json"
     },
     {
-      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-4-4/MyShop/wwwroot/package.json",
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-4-4/MyShop/wwwroot/package.json",
       "PackagePath": "staticwebassets/package.json"
     },
     {

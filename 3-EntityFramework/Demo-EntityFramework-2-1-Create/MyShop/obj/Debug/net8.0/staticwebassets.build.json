@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zZ/rK6nbvj5AA3gIk03O5l8/Clu9yLQI6u/x5fgBv40=",
+  "Hash": "AdlSS575nRpHOXbaC/gEtWfP23SwwkoPrb3AtjjZqfs=",
   "Source": "MyShop",
   "BasePath": "_content/MyShop",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MyShop/wwwroot",
       "Source": "MyShop",
-      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/",
       "BasePath": "_content/MyShop",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/obj/Debug/net8.0/scopedcss/bundle/MyShop.styles.css",
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/obj/Debug/net8.0/scopedcss/bundle/MyShop.styles.css",
       "SourceId": "MyShop",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/MyShop",
       "RelativePath": "MyShop.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/obj/Debug/net8.0/scopedcss/bundle/MyShop.styles.css"
+      "OriginalItemSpec": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/obj/Debug/net8.0/scopedcss/bundle/MyShop.styles.css"
     },
     {
-      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/MyShop.bundle.scp.css",
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/MyShop.bundle.scp.css",
       "SourceId": "MyShop",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/MyShop",
       "RelativePath": "MyShop.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/MyShop.bundle.scp.css"
+      "OriginalItemSpec": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/MyShop.bundle.scp.css"
     },
     {
-      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/images/chickenleg.jpg",
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/images/chickenleg.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/chickenleg.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/images/chickenleg.jpg"
     },
     {
-      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/images/cider.jpg",
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/images/cider.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/cider.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/images/cider.jpg"
     },
     {
-      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/images/coke.jpg",
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/images/coke.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/coke.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/images/coke.jpg"
     },
     {
-      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/images/fishandchips.jpg",
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/images/fishandchips.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/fishandchips.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/images/fishandchips.jpg"
     },
     {
-      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/images/frenchfries.jpg",
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/images/frenchfries.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/frenchfries.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/images/frenchfries.jpg"
     },
     {
-      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/images/pizza.jpg",
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/images/pizza.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/pizza.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/images/pizza.jpg"
     },
     {
-      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/images/ribs.jpg",
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/images/ribs.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/ribs.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/images/ribs.jpg"
     },
     {
-      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/images/tacos.jpg",
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/images/tacos.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/tacos.jpg",
       "AssetKind": "All",
@@ -207,10 +207,48 @@
       "OriginalItemSpec": "wwwroot/images/tacos.jpg"
     },
     {
-      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/package-lock.json",
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/js/bootstrap.js",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/",
+      "BasePath": "_content/MyShop",
+      "RelativePath": "js/bootstrap.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.js"
+    },
+    {
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/js/jquery.min.js",
+      "SourceId": "MyShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/",
+      "BasePath": "_content/MyShop",
+      "RelativePath": "js/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/jquery.min.js"
+    },
+    {
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/package-lock.json",
+      "SourceId": "MyShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/",
       "BasePath": "_content/MyShop",
       "RelativePath": "package-lock.json",
       "AssetKind": "All",
@@ -226,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/package-lock.json"
     },
     {
-      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/package.json",
+      "Identity": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/package.json",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/wwwroot/",
+      "ContentRoot": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/wwwroot/",
       "BasePath": "_content/MyShop",
       "RelativePath": "package.json",
       "AssetKind": "All",

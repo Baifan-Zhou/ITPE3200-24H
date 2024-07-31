@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7BqxN/qa3Vc=",
+  "dgSpecHash": "38ve3mNUyPw=",
   "success": true,
-  "projectFilePath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2/MyShop/MyShop.csproj",
+  "projectFilePath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-2-1-Create/MyShop/MyShop.csproj",
   "expectedPackageFiles": [
     "/Users/baifanz/.nuget/packages/microsoft.data.sqlite.core/8.0.7/microsoft.data.sqlite.core.8.0.7.nupkg.sha512",
     "/Users/baifanz/.nuget/packages/microsoft.entityframeworkcore/8.0.7/microsoft.entityframeworkcore.8.0.7.nupkg.sha512",

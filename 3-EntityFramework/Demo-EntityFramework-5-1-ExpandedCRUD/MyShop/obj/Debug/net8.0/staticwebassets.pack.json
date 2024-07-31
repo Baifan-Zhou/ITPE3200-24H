@@ -37,6 +37,14 @@
       "PackagePath": "staticwebassets/images/tacos.jpg"
     },
     {
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-5-1-ExpandedCRUD/MyShop/wwwroot/js/bootstrap.js",
+      "PackagePath": "staticwebassets/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-5-1-ExpandedCRUD/MyShop/wwwroot/js/jquery.min.js",
+      "PackagePath": "staticwebassets/js/jquery.min.js"
+    },
+    {
       "Id": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/3-EntityFramework/Demo-EntityFramework-5-1-ExpandedCRUD/MyShop/wwwroot/package-lock.json",
       "PackagePath": "staticwebassets/package-lock.json"
     },

@@ -9,31 +9,31 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyShop
 build_property.RootNamespace = MyShop
-build_property.ProjectDir = /Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-3/MyShop/
+build_property.ProjectDir = /Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-3/MyShop/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-3/MyShop
+build_property.MSBuildProjectDirectory = /Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-3/MyShop
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-3/MyShop/Views/Home/Index.cshtml]
+[/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-3/MyShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-3/MyShop/Views/Item/Table.cshtml]
+[/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-3/MyShop/Views/Item/Table.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSXRlbS9UYWJsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-3/MyShop/Views/_ViewImports.cshtml]
+[/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-3/MyShop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-3/MyShop/Views/_ViewStart.cshtml]
+[/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-3/MyShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-3/Demo-ShopMVC-3/MyShop/Views/Shared/_Layout.cshtml]
+[/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/2-ShopMVC/Demo-ShopMVC-3/MyShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-axnuj3c1xz
