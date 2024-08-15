@@ -1,0 +1,41 @@
+2024-08-15 12:17:25.921 +02:00 [INF] User profile is available. Using '/Users/baifanz/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-08-15 12:17:26.250 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2024-08-15 12:17:26.314 +02:00 [INF] Now listening on: https://localhost:7132
+2024-08-15 12:17:26.315 +02:00 [INF] Now listening on: http://localhost:5017
+2024-08-15 12:17:26.320 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-15 12:17:26.321 +02:00 [INF] Hosting environment: Development
+2024-08-15 12:17:26.321 +02:00 [INF] Content root path: /Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging_Inputvalidation/Demo-Errorhandling/MyShop
+2024-08-15 12:17:26.442 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5017/ - null null
+2024-08-15 12:17:26.455 +02:00 [INF] Executing endpoint 'MyShop.Controllers.HomeController.Index (MyShop)'
+2024-08-15 12:17:26.461 +02:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller MyShop.Controllers.HomeController (MyShop).
+2024-08-15 12:17:26.466 +02:00 [INF] Executing ViewResult, running view Index.
+2024-08-15 12:17:26.508 +02:00 [INF] Executed ViewResult - view Index executed in 42.2392ms.
+2024-08-15 12:17:26.513 +02:00 [INF] Executed action MyShop.Controllers.HomeController.Index (MyShop) in 50.7574ms
+2024-08-15 12:17:26.513 +02:00 [INF] Executed endpoint 'MyShop.Controllers.HomeController.Index (MyShop)'
+2024-08-15 12:17:26.518 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5017/ - 200 null text/html; charset=utf-8 77.3012ms
+2024-08-15 12:17:36.036 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5017/Item/Table - null null
+2024-08-15 12:17:36.062 +02:00 [INF] Executing endpoint 'MyShop.Controllers.ItemController.Table (MyShop)'
+2024-08-15 12:17:36.068 +02:00 [INF] Route matched with {action = "Table", controller = "Item"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Table() on controller MyShop.Controllers.ItemController (MyShop).
+2024-08-15 12:17:36.075 +02:00 [INF] This is an information message.
+2024-08-15 12:17:36.077 +02:00 [WRN] This is a warning message
+2024-08-15 12:17:36.078 +02:00 [ERR] This is an error message.
+2024-08-15 12:17:36.118 +02:00 [INF] Executing ViewResult, running view Table.
+2024-08-15 12:17:36.128 +02:00 [INF] Executed ViewResult - view Table executed in 10.1365ms.
+2024-08-15 12:17:36.129 +02:00 [INF] Executed action MyShop.Controllers.ItemController.Table (MyShop) in 60.259ms
+2024-08-15 12:17:36.129 +02:00 [INF] Executed endpoint 'MyShop.Controllers.ItemController.Table (MyShop)'
+2024-08-15 12:17:36.138 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5017/images/frenchfries.jpg - null null
+2024-08-15 12:17:36.140 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5017/Item/Table - 200 null text/html; charset=utf-8 104.2405ms
+2024-08-15 12:17:36.142 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5017/images/chickenleg.jpg - null null
+2024-08-15 12:17:36.150 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5017/images/ribs.jpg - null null
+2024-08-15 12:17:36.172 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5017/images/cider.jpg - null null
+2024-08-15 12:17:36.172 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5017/images/coke.jpg - null null
+2024-08-15 12:17:36.236 +02:00 [INF] Sending file. Request path: '/images/cider.jpg'. Physical path: '/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging_Inputvalidation/Demo-Errorhandling/MyShop/wwwroot/images/cider.jpg'
+2024-08-15 12:17:36.236 +02:00 [INF] Sending file. Request path: '/images/chickenleg.jpg'. Physical path: '/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging_Inputvalidation/Demo-Errorhandling/MyShop/wwwroot/images/chickenleg.jpg'
+2024-08-15 12:17:36.236 +02:00 [INF] Sending file. Request path: '/images/frenchfries.jpg'. Physical path: '/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging_Inputvalidation/Demo-Errorhandling/MyShop/wwwroot/images/frenchfries.jpg'
+2024-08-15 12:17:36.236 +02:00 [INF] Sending file. Request path: '/images/coke.jpg'. Physical path: '/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging_Inputvalidation/Demo-Errorhandling/MyShop/wwwroot/images/coke.jpg'
+2024-08-15 12:17:36.237 +02:00 [INF] Sending file. Request path: '/images/ribs.jpg'. Physical path: '/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging_Inputvalidation/Demo-Errorhandling/MyShop/wwwroot/images/ribs.jpg'
+2024-08-15 12:17:36.237 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5017/images/cider.jpg - 200 28236 image/jpeg 65.3465ms
+2024-08-15 12:17:36.237 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5017/images/coke.jpg - 200 40331 image/jpeg 64.9635ms
+2024-08-15 12:17:36.237 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5017/images/frenchfries.jpg - 200 52799 image/jpeg 98.9173ms
+2024-08-15 12:17:36.237 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5017/images/chickenleg.jpg - 200 63434 image/jpeg 95.2499ms
+2024-08-15 12:17:36.237 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5017/images/ribs.jpg - 200 141554 image/jpeg 87.5783ms
