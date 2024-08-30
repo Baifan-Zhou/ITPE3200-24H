@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World/Hello World.csproj": {}
+    "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/1-Introduction/Hello World/Hello World.csproj": {}
   },
   "projects": {
-    "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World/Hello World.csproj": {
+    "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/1-Introduction/Hello World/Hello World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World/Hello World.csproj",
+        "projectUniqueName": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/1-Introduction/Hello World/Hello World.csproj",
         "projectName": "Hello World",
-        "projectPath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World/Hello World.csproj",
+        "projectPath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/1-Introduction/Hello World/Hello World.csproj",
         "packagesPath": "/Users/baifanz/.nuget/packages/",
-        "outputPath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/Hello World/obj/",
+        "outputPath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/1-Introduction/Hello World/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/baifanz/.nuget/NuGet/NuGet.Config"

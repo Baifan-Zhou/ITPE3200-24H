@@ -1,0 +1,73 @@
+2024-08-15 12:46:51.959 +02:00 [INF] User profile is available. Using '/Users/baifanz/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-08-15 12:46:52.301 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2024-08-15 12:46:52.344 +02:00 [INF] Now listening on: https://localhost:7132
+2024-08-15 12:46:52.344 +02:00 [INF] Now listening on: http://localhost:5017
+2024-08-15 12:46:52.347 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-15 12:46:52.348 +02:00 [INF] Hosting environment: Development
+2024-08-15 12:46:52.349 +02:00 [INF] Content root path: /Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging_Inputvalidation/Demo-ErrorhandlingLogging-2-Errorhandling/MyShop
+2024-08-15 12:46:52.685 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5017/ - null null
+2024-08-15 12:46:52.704 +02:00 [INF] Executing endpoint 'MyShop.Controllers.HomeController.Index (MyShop)'
+2024-08-15 12:46:52.715 +02:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller MyShop.Controllers.HomeController (MyShop).
+2024-08-15 12:46:52.722 +02:00 [INF] Executing ViewResult, running view Index.
+2024-08-15 12:46:52.929 +02:00 [INF] Executed ViewResult - view Index executed in 202.0848ms.
+2024-08-15 12:46:52.939 +02:00 [INF] Executed action MyShop.Controllers.HomeController.Index (MyShop) in 223.5171ms
+2024-08-15 12:46:52.939 +02:00 [INF] Executed endpoint 'MyShop.Controllers.HomeController.Index (MyShop)'
+2024-08-15 12:46:52.942 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5017/ - 200 null text/html; charset=utf-8 256.954ms
+2024-08-15 12:47:33.475 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5017/Item/Table - null null
+2024-08-15 12:47:33.479 +02:00 [INF] Executing endpoint 'MyShop.Controllers.ItemController.Table (MyShop)'
+2024-08-15 12:47:33.484 +02:00 [INF] Route matched with {action = "Table", controller = "Item"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Table() on controller MyShop.Controllers.ItemController (MyShop).
+2024-08-15 12:47:33.530 +02:00 [INF] Executing ViewResult, running view Table.
+2024-08-15 12:47:33.540 +02:00 [INF] Executed ViewResult - view Table executed in 10.8406ms.
+2024-08-15 12:47:33.541 +02:00 [INF] Executed action MyShop.Controllers.ItemController.Table (MyShop) in 56.1996ms
+2024-08-15 12:47:33.541 +02:00 [INF] Executed endpoint 'MyShop.Controllers.ItemController.Table (MyShop)'
+2024-08-15 12:47:33.545 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5017/Item/Table - 200 null text/html; charset=utf-8 70.3801ms
+2024-08-15 12:47:34.708 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5017/Item/Create - null null
+2024-08-15 12:47:34.713 +02:00 [INF] Executing endpoint 'MyShop.Controllers.ItemController.Create (MyShop)'
+2024-08-15 12:47:34.714 +02:00 [INF] Route matched with {action = "Create", controller = "Item"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create() on controller MyShop.Controllers.ItemController (MyShop).
+2024-08-15 12:47:34.716 +02:00 [INF] Executing ViewResult, running view Create.
+2024-08-15 12:47:34.743 +02:00 [INF] Executed ViewResult - view Create executed in 27.7389ms.
+2024-08-15 12:47:34.743 +02:00 [INF] Executed action MyShop.Controllers.ItemController.Create (MyShop) in 28.7097ms
+2024-08-15 12:47:34.743 +02:00 [INF] Executed endpoint 'MyShop.Controllers.ItemController.Create (MyShop)'
+2024-08-15 12:47:34.743 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5017/Item/Create - 200 null text/html; charset=utf-8 35.1373ms
+2024-08-15 12:47:45.795 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5017/Item/Create - application/x-www-form-urlencoded 222
+2024-08-15 12:47:45.796 +02:00 [INF] Executing endpoint 'MyShop.Controllers.ItemController.Create (MyShop)'
+2024-08-15 12:47:45.806 +02:00 [INF] Route matched with {action = "Create", controller = "Item"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(MyShop.Models.Item) on controller MyShop.Controllers.ItemController (MyShop).
+2024-08-15 12:47:45.821 +02:00 [WRN] [ItemController] Item creation failed {"ItemId":0,"Name":"Coke","Price":0,"Description":null,"ImageUrl":null,"OrderItems":null,"$type":"Item"}
+2024-08-15 12:47:45.823 +02:00 [INF] Executing ViewResult, running view Create.
+2024-08-15 12:47:45.825 +02:00 [INF] Executed ViewResult - view Create executed in 2.454ms.
+2024-08-15 12:47:45.825 +02:00 [INF] Executed action MyShop.Controllers.ItemController.Create (MyShop) in 19.5277ms
+2024-08-15 12:47:45.825 +02:00 [INF] Executed endpoint 'MyShop.Controllers.ItemController.Create (MyShop)'
+2024-08-15 12:47:45.825 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5017/Item/Create - 200 null text/html; charset=utf-8 29.9564ms
+2024-08-15 12:48:25.020 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5017/Item/Table - null null
+2024-08-15 12:48:25.021 +02:00 [INF] Executing endpoint 'MyShop.Controllers.ItemController.Table (MyShop)'
+2024-08-15 12:48:25.022 +02:00 [INF] Route matched with {action = "Table", controller = "Item"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Table() on controller MyShop.Controllers.ItemController (MyShop).
+2024-08-15 12:48:25.100 +02:00 [INF] Executing ViewResult, running view Table.
+2024-08-15 12:48:25.101 +02:00 [INF] Executed ViewResult - view Table executed in 1.0156ms.
+2024-08-15 12:48:25.101 +02:00 [INF] Executed action MyShop.Controllers.ItemController.Table (MyShop) in 78.7458ms
+2024-08-15 12:48:25.101 +02:00 [INF] Executed endpoint 'MyShop.Controllers.ItemController.Table (MyShop)'
+2024-08-15 12:48:25.102 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5017/Item/Table - 200 null text/html; charset=utf-8 81.6277ms
+2024-08-15 12:48:28.492 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5017/Item/Update/1 - null null
+2024-08-15 12:48:28.492 +02:00 [INF] Executing endpoint 'MyShop.Controllers.ItemController.Update (MyShop)'
+2024-08-15 12:48:28.497 +02:00 [INF] Route matched with {action = "Update", controller = "Item"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Update(Int32) on controller MyShop.Controllers.ItemController (MyShop).
+2024-08-15 12:48:28.513 +02:00 [INF] Executing ViewResult, running view Update.
+2024-08-15 12:48:28.524 +02:00 [INF] Executed ViewResult - view Update executed in 11.1334ms.
+2024-08-15 12:48:28.524 +02:00 [INF] Executed action MyShop.Controllers.ItemController.Update (MyShop) in 26.5628ms
+2024-08-15 12:48:28.524 +02:00 [INF] Executed endpoint 'MyShop.Controllers.ItemController.Update (MyShop)'
+2024-08-15 12:48:28.524 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5017/Item/Update/1 - 200 null text/html; charset=utf-8 32.3808ms
+2024-08-15 12:48:31.656 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5017/Item/Update/1 - application/x-www-form-urlencoded 353
+2024-08-15 12:48:31.657 +02:00 [INF] Executing endpoint 'MyShop.Controllers.ItemController.Update (MyShop)'
+2024-08-15 12:48:31.661 +02:00 [INF] Route matched with {action = "Update", controller = "Item"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Update(MyShop.Models.Item) on controller MyShop.Controllers.ItemController (MyShop).
+2024-08-15 12:48:31.667 +02:00 [WRN] [ItemController] Item update failed {"ItemId":1,"Name":"Pizza","Price":0,"Description":"Delicious Italian dish with a thin crust topped with tomato sauce, cheese, and various toppings.","ImageUrl":"/images/pizza.jpg","OrderItems":null,"$type":"Item"}
+2024-08-15 12:48:31.667 +02:00 [INF] Executing ViewResult, running view Update.
+2024-08-15 12:48:31.668 +02:00 [INF] Executed ViewResult - view Update executed in 1.0633ms.
+2024-08-15 12:48:31.668 +02:00 [INF] Executed action MyShop.Controllers.ItemController.Update (MyShop) in 6.894ms
+2024-08-15 12:48:31.668 +02:00 [INF] Executed endpoint 'MyShop.Controllers.ItemController.Update (MyShop)'
+2024-08-15 12:48:31.668 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5017/Item/Update/1 - 200 null text/html; charset=utf-8 11.5199ms
+2024-08-15 12:48:32.755 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5017/Item/Table - null null
+2024-08-15 12:48:32.755 +02:00 [INF] Executing endpoint 'MyShop.Controllers.ItemController.Table (MyShop)'
+2024-08-15 12:48:32.755 +02:00 [INF] Route matched with {action = "Table", controller = "Item"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Table() on controller MyShop.Controllers.ItemController (MyShop).
+2024-08-15 12:48:32.760 +02:00 [INF] Executing ViewResult, running view Table.
+2024-08-15 12:48:32.762 +02:00 [INF] Executed ViewResult - view Table executed in 2.333ms.
+2024-08-15 12:48:32.762 +02:00 [INF] Executed action MyShop.Controllers.ItemController.Table (MyShop) in 7.124ms
+2024-08-15 12:48:32.762 +02:00 [INF] Executed endpoint 'MyShop.Controllers.ItemController.Table (MyShop)'
+2024-08-15 12:48:32.762 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5017/Item/Table - 200 null text/html; charset=utf-8 7.7876ms

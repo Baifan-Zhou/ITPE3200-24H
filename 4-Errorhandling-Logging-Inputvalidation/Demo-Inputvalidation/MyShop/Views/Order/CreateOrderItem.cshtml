@@ -1,0 +1,27 @@
+﻿@model CreateOrderItemViewModel
+
+<h2>Create New OrderItem</h2>
+
+<form asp-action="CreateOrderItem">
+    <div class="form-group">
+        <label asp-for="OrderItem.ItemId"></label><span class="text-danger">*</span>
+        <select asp-for="OrderItem.ItemId" asp-items="Model.ItemSelectList" class="form-control">
+            <option value="">Select an item...</option>
+        </select>
+        <span asp-validation-for="OrderItem.ItemId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="OrderItem.Quantity"></label><span class="text-danger">*</span>
+        <input asp-for="OrderItem.Quantity" class="form-control" />
+        <span asp-validation-for="OrderItem.Quantity" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="OrderItem.OrderId"></label><span class="text-danger">*</span>
+        <select asp-for="OrderItem.OrderId" asp-items="Model.OrderSelectList" class="form-control">
+            <option value="">Select an order...</option>
+        </select>
+        <span asp-validation-for="OrderItem.OrderId" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+    <a asp-action="Table" class="btn btn-secondary">Back to Order Table</a>
+</form>

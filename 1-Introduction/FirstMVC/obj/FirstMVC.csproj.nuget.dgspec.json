@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-2/FirstMVC/FirstMVC.csproj": {}
+    "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/1-Introduction/FirstMVC/FirstMVC.csproj": {}
   },
   "projects": {
-    "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-2/FirstMVC/FirstMVC.csproj": {
+    "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/1-Introduction/FirstMVC/FirstMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-2/FirstMVC/FirstMVC.csproj",
+        "projectUniqueName": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/1-Introduction/FirstMVC/FirstMVC.csproj",
         "projectName": "FirstMVC",
-        "projectPath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-2/FirstMVC/FirstMVC.csproj",
+        "projectPath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/1-Introduction/FirstMVC/FirstMVC.csproj",
         "packagesPath": "/Users/baifanz/.nuget/packages/",
-        "outputPath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/Week-2/FirstMVC/obj/",
+        "outputPath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/1-Introduction/FirstMVC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/baifanz/.nuget/NuGet/NuGet.Config"
