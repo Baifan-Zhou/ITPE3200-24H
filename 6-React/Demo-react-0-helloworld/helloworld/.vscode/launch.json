@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "chrome",
+        "request": "launch",
+        "name": "Debug React App",
+        "url": "http://localhost:3000", // or the port where your app is running
+        "webRoot": "${workspaceFolder}/src"
+      }
+    ]
+  }
+  

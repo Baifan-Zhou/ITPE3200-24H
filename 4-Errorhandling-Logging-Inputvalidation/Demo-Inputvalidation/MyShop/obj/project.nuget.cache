@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vn4bZ/5X/Ns=",
+  "dgSpecHash": "lJVLzViyCWQ=",
   "success": true,
-  "projectFilePath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging_Inputvalidation/Demo-Inputvalidation/MyShop/MyShop.csproj",
+  "projectFilePath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging-Inputvalidation/Demo-Inputvalidation/MyShop/MyShop.csproj",
   "expectedPackageFiles": [
     "/Users/baifanz/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/baifanz/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

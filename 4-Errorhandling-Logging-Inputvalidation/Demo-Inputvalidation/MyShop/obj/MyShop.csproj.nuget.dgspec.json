@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging_Inputvalidation/Demo-Inputvalidation/MyShop/MyShop.csproj": {}
+    "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging-Inputvalidation/Demo-Inputvalidation/MyShop/MyShop.csproj": {}
   },
   "projects": {
-    "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging_Inputvalidation/Demo-Inputvalidation/MyShop/MyShop.csproj": {
+    "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging-Inputvalidation/Demo-Inputvalidation/MyShop/MyShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging_Inputvalidation/Demo-Inputvalidation/MyShop/MyShop.csproj",
+        "projectUniqueName": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging-Inputvalidation/Demo-Inputvalidation/MyShop/MyShop.csproj",
         "projectName": "MyShop",
-        "projectPath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging_Inputvalidation/Demo-Inputvalidation/MyShop/MyShop.csproj",
+        "projectPath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging-Inputvalidation/Demo-Inputvalidation/MyShop/MyShop.csproj",
         "packagesPath": "/Users/baifanz/.nuget/packages/",
-        "outputPath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging_Inputvalidation/Demo-Inputvalidation/MyShop/obj/",
+        "outputPath": "/Users/baifanz/ProgrammingProjects/2024ITPE3200Programming/ITPE3200-24H/4-Errorhandling-Logging-Inputvalidation/Demo-Inputvalidation/MyShop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/baifanz/.nuget/NuGet/NuGet.Config"
